@@ -42,3 +42,15 @@ header {
 form {
     margin: 28px;
 }
+#cart {
+    height: 100px;
+    font-size: 14px;
+    font-weight: bold;
+    background: url(../images/cart.png) no-repeat;
+}
+#cart:before{
+    content: "6";
+    position: absolute;
+    top: 0;
+    left: 140px;
+}

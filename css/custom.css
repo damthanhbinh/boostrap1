@@ -99,6 +99,35 @@ nav h4 {
 #banner-l {
     width: 100%;
 }
-.banner-l-item {
+.banner-l-item img{
     width: 100%;
+    margin-top: 20px;
+}
+.banner-t img {
+    float: left;
+    width: 100%;    
+}
+.banner-t-item {
+    margin-top: 15px;
+    padding: 0;    
+}
+#row-product {
+    margin: 0;
+}
+.product {
+    margin-top: 15px;      
+    padding: 0;
+    
+}
+.product h3 {
+    text-transform: uppercase;    
+    color: orange;
+}
+.product-item {
+    text-align: center;  
+    border: 1px solid #dddddd;
+}
+.price {
+    font-weight: bold;
+    color: red;
 }
